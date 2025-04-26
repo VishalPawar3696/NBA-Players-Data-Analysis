@@ -92,7 +92,7 @@ Summary Section showing top players and teams.
 
 1.Clone the repository:
 
-git clone https://github.com/yourusername/nba-player-analysis.git
+git clone [https://github.com/yourusername/nba-player-analysis.git](https://github.com/VishalPawar3696/NBA-Players-Data-Analysis.git)
 
 2.Install required libraries:
 pip install pandas matplotlib seaborn sqlalchemy pymysql
