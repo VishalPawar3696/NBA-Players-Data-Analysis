@@ -1,10 +1,13 @@
 🏀 #NBA Player Analysis and Dashboard Project
+
 📂 #Project Overview
+
 This project focuses on analyzing NBA players' performance across different seasons.
 We perform data cleaning, exploratory data analysis (EDA) using Pandas and visualization libraries,
 then create an interactive dashboard in Power BI for player and team comparisons.
 
 🛠️ Tools & Technologies Used
+
 Python (Pandas, Matplotlib, Seaborn)
 
 MySQL (Database to store cleaned data)
@@ -79,7 +82,9 @@ Summary Section showing top players and teams.
 
 
 🚀 How to Run the Project
+
 1.Clone the repository:
+
 git clone https://github.com/yourusername/nba-player-analysis.git
 
 2.Install required libraries:
