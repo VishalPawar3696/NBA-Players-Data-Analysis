@@ -1,6 +1,7 @@
 🏀 #NBA Player Analysis and Dashboard Project
 
 📂 #Project Overview
+![Screenshot (58)](https://github.com/user-attachments/assets/9328d6cf-50b1-4a90-ae66-f0c783dd348c)
 
 This project focuses on analyzing NBA players' performance across different seasons.
 We perform data cleaning, exploratory data analysis (EDA) using Pandas and visualization libraries,
@@ -74,15 +75,17 @@ Summary Section showing top players and teams.
 
 
 🖼️ Screenshots
-1. Data Cleaning & EDA (Python)
-images/Screenshot (50).png
+1. Data cleaning & EDA (Python)
+![Screenshot (53)](https://github.com/user-attachments/assets/ceea5911-3792-434c-94a5-3d7d7e4537c6)
+![Screenshot (51)](https://github.com/user-attachments/assets/2b839739-9c29-488c-9251-f4ad9481e1c1)
+![Screenshot (56)](https://github.com/user-attachments/assets/1c38861c-94b2-48e7-8bc8-7bff9383280c)
+![Screenshot (55)](https://github.com/user-attachments/assets/1df5d3e1-16d1-453e-9835-f8ade11d3e8c)
 
-images/Screenshot (52).png
-
-images/Screenshot (53).png
 3. SQL Database Table
-images/Screenshot (57).png
+![Screenshot (57)](https://github.com/user-attachments/assets/aac771c8-7b37-48be-85ca-eb6ae9448597)
+
 4. Power BI Dashboard
+![Screenshot (58)](https://github.com/user-attachments/assets/75435a5f-a7f3-4385-81c5-1b3397fcf255)
 
 
 🚀 How to Run the Project
