@@ -75,10 +75,11 @@ Summary Section showing top players and teams.
 
 🖼️ Screenshots
 1. Data Cleaning & EDA (Python)
+images/Screenshot (50).png
 
-2. SQL Database Table
+3. SQL Database Table
 
-3. Power BI Dashboard
+4. Power BI Dashboard
 
 
 🚀 How to Run the Project
